@@ -1,4 +1,4 @@
-// Content for the DUSKLINE concept: crew, cargo, expeditions and the event deck.
+// Content for the BRACE! concept: crew, cargo, expeditions and the event deck.
 // Journal entries are written by Lin, 15, in her diary.
 
 export const CREW = [

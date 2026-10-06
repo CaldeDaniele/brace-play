@@ -1,4 +1,4 @@
-// DUSKLINE concept — screen flow: title → briefing → 60s descent → landing → 10 days → ending.
+// BRACE! concept — screen flow: title → briefing → 60s descent → landing → 10 days → ending.
 import { animate } from 'motion';
 import { initScene } from './scene.js';
 import { runDescent } from './descent.js';
@@ -32,7 +32,7 @@ function title() {
         <div class="title-shade"></div>
         <div class="title-content">
           <p class="kicker" data-in>CONCEPT · MOCKUP GIOCABILE</p>
-          <h1 class="logo" data-in>DUSKLINE</h1>
+          <h1 class="logo" data-in>BRACE!</h1>
           <p class="tagline" data-in>Sessanta secondi per scendere.<br>Poi, sopravvivere dove il sole non tramonta.</p>
           <button class="btn primary big" id="start" data-in>Inizia</button>
           <p class="fine" data-in>Audio consigliato · tocca per iniziare</p>
